@@ -1,6 +1,7 @@
 package com.xrc;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -40,9 +41,9 @@ public class mainCookBook {
         List<Dog> aList = new ArrayList();
 
         Dog p1 = new Dog();
-        p1.setSize("1");
+        p1.setSize("2");
         Dog p2 = new Dog();
-        p2.setSize("2");
+        p2.setSize("1");
         Dog p3 = new Dog();
         p3.setSize("2");
 
@@ -59,11 +60,30 @@ public class mainCookBook {
         collector
          */
         filterList(aList);
+
+        useEntrySet(aList);
     }
 
 
     public static void filterList(List<Dog> aList) {
-        System.out.println(aList.stream().filter(a -> a.getSize().equals("2"))
-                .collect(Collectors.toList()).size());
+        System.out.println(
+            aList.stream().filter(
+                a -> a.getSize().equals("2")
+            ).collect(
+                Collectors.toList()
+            ).size()
+        );
+    }
+
+    public static void useEntrySet(List<Dog> aList) {
+        aList.stream().collect(
+                Collectors.groupingBy(Dog::getSize)
+        ).entrySet().forEach(e -> {
+            List<Dog> subList = e.getValue();
+
+            for (Dog sub: subList) {
+                System.out.println(sub.getSize());
+            }
+        });
     }
 }
