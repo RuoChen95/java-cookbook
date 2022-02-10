@@ -66,6 +66,8 @@ public class mainCookBook {
                 c1.size = "S";
             case 3:
                 c1.size = "S";
+            case 4, 5, 6:
+                c1.size = "M";
         }
 
 
