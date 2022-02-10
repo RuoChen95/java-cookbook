@@ -38,6 +38,39 @@ public class mainCookBook {
     }
 
     public static void main(String[] args) {
+        // Exercise 3-1
+        Customer c1 = new Customer();
+        c1.name = "Pinkey";
+        System.out.println(c1.name);
+
+        // Exercise 3-2
+        Clothing item1 = new Clothing();
+        Clothing item2 = new Clothing();
+        item1.description = "Blue Jacket";
+        item1.price = 10.5;
+        item2.description = "Red Jacket";
+        item2.price = 10.4;
+        item2.size = "S";
+        double tax = 0.2;
+        double total = 0.0;
+        total = total + (item1.price * 2 + item2.price) * (1 + tax);
+        System.out.println(total);
+
+        // Exercise 4-1 switch statement
+        c1.size = "S";
+        int measurement = 3;
+        switch (measurement) {
+            case 1:
+                c1.size = "S";
+            case 2:
+                c1.size = "S";
+            case 3:
+                c1.size = "S";
+        }
+
+
+
+        // Personal Exercise
         List<Dog> aList = new ArrayList();
 
         Dog p1 = new Dog();
