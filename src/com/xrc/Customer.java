@@ -53,4 +53,17 @@ public class Customer {
         }
         return total;
     }
+
+    // 6-1: Add Customer Constructor
+    public Customer() {
+    }
+    public Customer(String name, String size) {
+        this.name = name;
+        this.size = size;
+    }
+
+    public Customer(String name, int measurement) {
+        this.name = name;
+        setSize(measurement);
+    }
 }

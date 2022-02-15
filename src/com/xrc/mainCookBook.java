@@ -44,21 +44,19 @@ public class mainCookBook {
 
 
     public static void main(String[] args) {
+        // 6-3-2: Use Static Constants
+        System.out.println(Clothing.MIN_PRICE);
+
+
         // Exercise 3-1
         Customer c1 = new Customer();
         c1.name = "Pinky";
         System.out.println(c1.name);
 
         // Exercise 3-2
-        Clothing item1 = new Clothing();
-        Clothing item2 = new Clothing();
-        item1.description = "Blue Jacket";
-        item1.price = 10.5;
-        item1.tax = 0.2;
-        item2.description = "Red Jacket";
-        item2.price = 10.4;
-        item2.size = "S";
-        item2.tax = 0.2;
+        // Exercise 6-2
+        Clothing item1 = new Clothing("Blue Jacket", 10.5, 0.2, "S");
+        Clothing item2 = new Clothing("Red Jacket", 10.4, 0.2, "S");
         // double tax = 0.2;
         //double total = 0.0;
         //total = total + (item1.price * 2 + item2.price) * (1 + tax);
@@ -76,6 +74,11 @@ public class mainCookBook {
         c1.setItems(items);
         total = c1.getTotalClothingCost();
         System.out.println(total);
+
+        // Exercise 6-1
+        Customer c2 = new Customer("Bob", "S");
+        Customer c3 = new Customer("Bob", 3);
+        System.out.println(c3.size);
 
 
 
