@@ -37,10 +37,16 @@ public class mainCookBook {
         }
     }
 
+    public class food {
+        private double price;
+        private final double tax = 0.5;
+    }
+
+
     public static void main(String[] args) {
         // Exercise 3-1
         Customer c1 = new Customer();
-        c1.name = "Pinkey";
+        c1.name = "Pinky";
         System.out.println(c1.name);
 
         // Exercise 3-2
@@ -48,29 +54,28 @@ public class mainCookBook {
         Clothing item2 = new Clothing();
         item1.description = "Blue Jacket";
         item1.price = 10.5;
+        item1.tax = 0.2;
         item2.description = "Red Jacket";
         item2.price = 10.4;
         item2.size = "S";
-        double tax = 0.2;
-        double total = 0.0;
-        total = total + (item1.price * 2 + item2.price) * (1 + tax);
+        item2.tax = 0.2;
+        // double tax = 0.2;
+        //double total = 0.0;
+        //total = total + (item1.price * 2 + item2.price) * (1 + tax);
+        // Exercise 5-1 Apply Encapsulation
+        double total = item2.getPrice();
         System.out.println(total);
 
-        // Exercise 4-1 switch statement
-        c1.size = "S";
-        int measurement = 3;
-        switch (measurement) {
-            case 1:
-                c1.size = "S";
-            case 2:
-                c1.size = "S";
-            case 3:
-                c1.size = "S";
-        }
+        // Exercise 5-2 Overload a Method
+        c1.setSize(8);
+        System.out.println("c1.size:");
+        System.out.println(c1.size);
 
-
-        String[] names = {'1', '2', '3'};
-        int[] ages = {1, 2, 3};
+        // Exercise 5-3 Associate "Customer" with "Clothing"
+        Clothing[] items = {item1, item2};
+        c1.setItems(items);
+        total = c1.getTotalClothingCost();
+        System.out.println(total);
 
 
 
