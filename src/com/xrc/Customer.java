@@ -66,4 +66,28 @@ public class Customer {
         this.name = name;
         setSize(measurement);
     }
+
+    // 7-1
+    public void getAverageTotalClothingCost() {
+        double total = 0.0;
+        int count = 0;
+        double average = 0.0;
+        for (Clothing item : this.items) {
+            if (item.getSize().equals("S")) {
+                total += item.getPrice();
+                count ++;
+            }
+        }
+        System.out.println(total);
+        System.out.println(count);
+//        try {
+//            average = total / count;
+//            System.out.println(average);
+//        } catch (ArithmeticException e) {
+//            System.out.println(e);
+//        }
+
+        average = count == 0 ? 0 : total/count;
+        System.out.println(average);
+    }
 }

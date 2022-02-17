@@ -6,7 +6,11 @@ public class Clothing {
     double tax;
     String size = "M";
 
-    // 6-3-1: Use Static Constants
+    public String getSize() {
+        return size;
+    }
+
+    // 6-3: Use Static Constants
     public static final double MIN_PRICE = 10.0;
     public static final double MIN_TAX = 0.2;
 

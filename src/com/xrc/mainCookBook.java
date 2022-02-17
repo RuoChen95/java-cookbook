@@ -44,7 +44,7 @@ public class mainCookBook {
 
 
     public static void main(String[] args) {
-        // 6-3-2: Use Static Constants
+        // 6-3: Use Static Constants
         System.out.println(Clothing.MIN_PRICE);
 
 
@@ -79,6 +79,10 @@ public class mainCookBook {
         Customer c2 = new Customer("Bob", "S");
         Customer c3 = new Customer("Bob", 3);
         System.out.println(c3.size);
+
+        System.out.println("7-1");
+        c2.setItems(items);
+        c2.getAverageTotalClothingCost();
 
 
 
