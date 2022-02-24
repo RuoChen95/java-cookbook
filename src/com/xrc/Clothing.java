@@ -1,6 +1,6 @@
 package com.xrc;
 
-public class Clothing {
+public class Clothing implements Comparable<Clothing>{
     String description;
     double price;
     double tax;
@@ -33,6 +33,18 @@ public class Clothing {
         price = aprice;
         tax = atax;
         this.size = size;
+    }
+
+    // 8-1: Override the toString Method
+    @Override
+    public String toString() {
+        return description + ", " + price;
+    }
+
+    // 8-2 Comparable algorithm using interfaces
+    @Override
+    public int compareTo(Clothing c) {
+        return this.description.compareTo(c.description);
     }
 
 }

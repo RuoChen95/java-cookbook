@@ -1,6 +1,7 @@
 package com.xrc;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -70,7 +71,7 @@ public class mainCookBook {
         System.out.println(c1.size);
 
         // Exercise 5-3 Associate "Customer" with "Clothing"
-        Clothing[] items = {item1, item2};
+        Clothing[] items = {item2, item1};
         c1.setItems(items);
         total = c1.getTotalClothingCost();
         System.out.println(total);
@@ -83,6 +84,20 @@ public class mainCookBook {
         System.out.println("7-1");
         c2.setItems(items);
         c2.getAverageTotalClothingCost();
+
+
+
+        // 8-1: Override the toString Method
+        System.out.println(item1);
+
+        Arrays.sort(c1.getItems());
+
+        for (Clothing item : c1.getItems()) {
+            System.out.println("Item output " + item);
+        }
+
+
+
 
 
 
