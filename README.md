@@ -1,6 +1,2 @@
 # java-cookbook
-personal java cookbook for personal development
-
-
-
-java introduction
+personal java cookbook
