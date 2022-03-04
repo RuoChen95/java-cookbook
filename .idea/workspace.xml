@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee2f81f8-8358-4d7e-b6dc-2608eabc91cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jar/helidon-common-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-common-configurable-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-common-context-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-common-http-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-common-key-util-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-common-mapper-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-common-media-type-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-common-metrics-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-common-reactive-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-common-service-loader-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-config-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-media-common-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-tracing-config-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/helidon-webserver-2.0.0-M3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/javax.annotation-api-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/netty-buffer-4.1.50.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/netty-codec-4.1.50.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/netty-codec-http-4.1.50.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/netty-codec-http2-4.1.50.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/netty-common-4.1.50.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/netty-handler-4.1.50.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/netty-transport-4.1.50.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/netty-transport-native-unix-common-4.1.50.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/opentracing-api-0.33.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/opentracing-noop-0.33.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/opentracing-util-0.33.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xrc/ItemList.java" afterDir="false" />
+    <list default="true" id="ee2f81f8-8358-4d7e-b6dc-2608eabc91cd" name="Default Changelist" comment="notebook update">
+      <change afterPath="$PROJECT_DIR$/src/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Myclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Myclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/food/Fruit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/food/Fruit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA：Java Explorer.docx" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA：Java Explorer.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cookbook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-cookbook.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-cookbook/META-INF/java-cookbook.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/Clothing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/Clothing.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/Customer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/mainCookBook$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/mainCookBook$Dog.class" afterDir="false" />
@@ -48,45 +24,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xrc/mainCookBook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="80" column="27" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="80" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/xrc/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xrc/ItemList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,6 +32,13 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>concurrent</find>
+      <find>imple</find>
+      <find>extends</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -107,8 +52,13 @@
         <option value="$PROJECT_DIR$/src/com/xrc/Customer.java" />
         <option value="$PROJECT_DIR$/src/com/xrc/Clothing.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/com/xrc/mainCookBook.java" />
         <option value="$PROJECT_DIR$/src/com/xrc/ItemList.java" />
+        <option value="$PROJECT_DIR$/src/com/xrc/mainCookBook.java" />
+        <option value="$PROJECT_DIR$/src/OCA1_1.java" />
+        <option value="$PROJECT_DIR$/src/food/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/food/Apple.java" />
+        <option value="$PROJECT_DIR$/src/Apple.java" />
+        <option value="$PROJECT_DIR$/src/Myclass.java" />
       </list>
     </option>
   </component>
@@ -124,7 +74,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,19 +90,20 @@
               <item name="java-cookbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-cookbook" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="xrc" type="462c0819:PsiDirectoryNode" />
+              <item name="food" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1645688981336" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1646294212346" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -179,7 +129,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Myclass">
+    <configuration name="Myclass" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Myclass" />
+      <module name="java-cookbook" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="mainCookBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_311" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -195,6 +152,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Myclass" />
+      <item itemvalue="Application.mainCookBook" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.mainCookBook" />
@@ -228,6 +189,8 @@
       <workItem from="1645664127455" duration="3908000" />
       <workItem from="1645673091216" duration="1960000" />
       <workItem from="1645694657639" duration="1874000" />
+      <workItem from="1645780094514" duration="484000" />
+      <workItem from="1646268640534" duration="5742000" />
     </task>
     <task id="LOCAL-00001" summary="exercise 5-1, 5-2, 5-3">
       <created>1644906100485</created>
@@ -257,17 +220,23 @@
       <option name="project" value="LOCAL" />
       <updated>1645669987920</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="notebook update">
+      <created>1645780151578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645780151579</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48154000" />
+    <option name="totallyTimeSpent" value="54380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-367" y="-1271" width="1519" height="1271" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21191604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21733244" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -276,7 +245,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16709292" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16709292" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -284,9 +253,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32821825" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32821825" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32821825" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.28900257" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -308,7 +277,8 @@
     <MESSAGE value="exercise 6-1, 6-2, 6-3 and notebook" />
     <MESSAGE value="exercise 7-1 and notebook" />
     <MESSAGE value="exercise 8-1, 8-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise 8-1, 8-2" />
+    <MESSAGE value="notebook update" />
+    <option name="LAST_COMMIT_MESSAGE" value="notebook update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/rt.jar!/java/util/function/Consumer.class">
@@ -323,17 +293,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/duke/choice/Customer.java" />
     <entry file="file://$PROJECT_DIR$/src/duke/choice/ShopApp.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/xrc/Clothing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding>
-            <element signature="e#1065#1066#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -344,10 +303,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/OCA1_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <element signature="e#70#71#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oca1_1/Myclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xrc/Clothing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xrc/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xrc/ItemList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="228">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -356,21 +351,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xrc/mainCookBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="80" column="27" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="80" selection-end-column="27" />
+        <state relative-caret-position="161">
+          <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xrc/Customer.java">
+    <entry file="file://$PROJECT_DIR$/src/food/Fruit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Apple.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Myclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#67#68#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -432,6 +452,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

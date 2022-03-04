@@ -6,12 +6,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.stream.Collectors;
 
-
-import io.helidon.common.http.Http;
-import io.helidon.webserver.Handler;
-import io.helidon.webserver.ServerRequest;
-import io.helidon.webserver.ServerResponse;
-
 public class mainCookBook {
 
     public static class Dog {
