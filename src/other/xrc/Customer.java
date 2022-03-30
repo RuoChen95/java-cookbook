@@ -1,4 +1,4 @@
-package com.xrc;
+package other.xrc;
 
 public class Customer {
     String name;

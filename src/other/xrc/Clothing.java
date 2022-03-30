@@ -1,4 +1,4 @@
-package com.xrc;
+package other.xrc;
 
 public class Clothing implements Comparable<Clothing>{
     String description;

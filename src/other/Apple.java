@@ -1,4 +1,6 @@
-import food.Fruit;
+package other;
+
+import other.food.Fruit;
 
 public class Apple extends Fruit {
     public void runTest() {
