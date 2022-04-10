@@ -2,29 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee2f81f8-8358-4d7e-b6dc-2608eabc91cd" name="Default Changelist" comment="notebook update">
-      <change afterPath="$PROJECT_DIR$/src/Apple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Myclass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Myclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/food/Fruit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/food/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/operation/operationCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA：Java Explorer.docx" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA：Java Explorer.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/Clothing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/Clothing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/mainCookBook$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/mainCookBook$Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/mainCookBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-cookbook/com/xrc/mainCookBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xrc/mainCookBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xrc/mainCookBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,12 +48,16 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-367" />
     <option name="y" value="-1271" />
     <option name="width" value="1519" />
     <option name="height" value="1271" />
   </component>
+  <component name="ProjectId" id="27bSFu2kIgzdKB3vtQDd0Gib6Sz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -100,36 +90,30 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1646294212346" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.osgi.library.bundling" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/jar" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Myclass">
+  <component name="RunManager" selected="应用程序.Myclass">
     <configuration name="Myclass" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Myclass" />
       <module name="java-cookbook" />
@@ -153,15 +137,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Myclass" />
-      <item itemvalue="Application.mainCookBook" />
+      <item itemvalue="应用程序.Myclass" />
+      <item itemvalue="应用程序.mainCookBook" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.mainCookBook" />
-      </list>
-    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -191,6 +171,8 @@
       <workItem from="1645694657639" duration="1874000" />
       <workItem from="1645780094514" duration="484000" />
       <workItem from="1646268640534" duration="5742000" />
+      <workItem from="1649587197433" duration="1360000" />
+      <workItem from="1649589836497" duration="1715000" />
     </task>
     <task id="LOCAL-00001" summary="exercise 5-1, 5-2, 5-3">
       <created>1644906100485</created>
@@ -268,7 +250,18 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -279,6 +272,10 @@
     <MESSAGE value="exercise 8-1, 8-2" />
     <MESSAGE value="notebook update" />
     <option name="LAST_COMMIT_MESSAGE" value="notebook update" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/rt.jar!/java/util/function/Consumer.class">
